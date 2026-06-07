@@ -6,7 +6,7 @@
 
   <!-- Homepage -->
   <url>
-    <loc>https://robotaxi.me.uk/</loc>
+    <loc>https://botaxi.uk/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- Passenger Services -->
   <url>
-    <loc>https://robotaxi.me.uk/#services</loc>
+    <loc>https://botaxi.uk/#services</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -22,7 +22,7 @@
 
   <!-- Delivery Services -->
   <url>
-    <loc>https://robotaxi.me.uk/#delivery</loc>
+    <loc>https://botaxi.uk/#delivery</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -30,7 +30,7 @@
 
   <!-- Business Solutions -->
   <url>
-    <loc>https://robotaxi.me.uk/#business</loc>
+    <loc>https://botaxi.uk/#business</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -38,7 +38,7 @@
 
   <!-- Booking -->
   <url>
-    <loc>https://robotaxi.me.uk/#booking</loc>
+    <loc>https://botaxi.uk/#booking</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
@@ -46,7 +46,7 @@
 
   <!-- Service Areas -->
   <url>
-    <loc>https://robotaxi.me.uk/#areas</loc>
+    <loc>https://botaxi.uk/#areas</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -54,7 +54,7 @@
 
   <!-- About -->
   <url>
-    <loc>https://robotaxi.me.uk/#about</loc>
+    <loc>https://botaxi.uk/#about</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -62,7 +62,7 @@
 
   <!-- FAQ -->
   <url>
-    <loc>https://robotaxi.me.uk/#faq</loc>
+    <loc>https://botaxi.uk/#faq</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -70,7 +70,7 @@
 
   <!-- Contact -->
   <url>
-    <loc>https://robotaxi.me.uk/#contact</loc>
+    <loc>https://botaxi.uk/#contact</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>

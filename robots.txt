@@ -1,5 +1,5 @@
 # RoboTaxi UK — robots.txt
-# https://robotaxi.me.uk
+# https://botaxi.uk
 
 User-agent: *
 Allow: /
@@ -17,7 +17,7 @@ Allow: /booking.js
 Allow: /manifest.json
 
 # Sitemap location
-Sitemap: https://robotaxi.me.uk/sitemap.xml
+Sitemap: https://botaxi.uk/sitemap.xml
 
 # Crawl delay (be kind to small servers)
 Crawl-delay: 2

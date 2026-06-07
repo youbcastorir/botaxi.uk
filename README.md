@@ -1,6 +1,6 @@
 # 🚖 RoboTaxi UK — Autonomous Mobility Platform
 
-**Domain:** [robotaxi.me.uk](https://robotaxi.me.uk)  
+**Domain:** [botaxi.uk](https://botaxi.uk)  
 **Stack:** Vanilla HTML5 · CSS3 · JavaScript (ES6+) · PWA  
 **Target Market:** United Kingdom  
 **Contact:** WhatsApp [0612 605 737](https://wa.me/212612605737) · Email salatrir@gmail.com
@@ -118,11 +118,11 @@ Your site will be live at:
 
 ---
 
-## 🌍 Custom Domain Setup (robotaxi.me.uk)
+## 🌍 Custom Domain Setup (botaxi.uk)
 
 ### Step 1 — Add CNAME in GitHub Pages
 
-1. In **Settings → Pages**, enter your custom domain: `robotaxi.me.uk`
+1. In **Settings → Pages**, enter your custom domain: `botaxi.uk`
 2. GitHub will create a `CNAME` file automatically
 
 ### Step 2 — Configure DNS
@@ -246,16 +246,16 @@ Update `areaServed` and `serviceType` to match your actual services.
 ### Sitemap
 
 Update `sitemap.xml`:
-- Replace `https://robotaxi.me.uk` with your actual domain
+- Replace `https://botaxi.uk` with your actual domain
 - Update `<lastmod>` dates whenever you publish changes
 - Submit to [Google Search Console](https://search.google.com/search-console)
 
 ### Google Search Console Setup
 
 1. Go to [search.google.com/search-console](https://search.google.com/search-console)
-2. Add property → URL prefix → `https://robotaxi.me.uk`
+2. Add property → URL prefix → `https://botaxi.uk`
 3. Verify ownership (HTML tag method — paste in `<head>`)
-4. Submit sitemap: `https://robotaxi.me.uk/sitemap.xml`
+4. Submit sitemap: `https://botaxi.uk/sitemap.xml`
 
 ### Target Keywords
 
@@ -356,7 +356,7 @@ if ('serviceWorker' in navigator) {
 |----------|---------|
 | WhatsApp | [0612 605 737](https://wa.me/212612605737) |
 | Email    | salatrir@gmail.com |
-| Website  | robotaxi.me.uk |
+| Website  | botaxi.uk |
 
 ---
 

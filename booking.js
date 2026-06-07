@@ -103,7 +103,7 @@
       data.phone ? `📞 *Phone:* ${data.phone}` : '',
       data.notes ? `📝 *Notes:* ${data.notes}` : '',
       '',
-      '_Sent via robotaxi.me.uk_'
+      '_Sent via botaxi.uk_'
     ].filter(Boolean);
 
     return encodeURIComponent(lines.join('\n'));
